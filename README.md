@@ -1,1 +1,24 @@
-# <a href="https://xinqrmn.github.io/project-marcho/"> project-marcho </a>
+# 🛍️ Marcho
+
+A basic e-commerce website with essential features.  
+
+## 🚀 Features
+- Product catalog
+- Product details pages
+- Order placement
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+
+## 🖥️ How to Run the Project?
+1. Clone the repository:
+   ```bash
+   git clone <REPOSITORY_URL>
+   ```
+Open index.html in your browser.
+
+## 📦 Future Plans
+- Add responsive design
+- Optimize image loading
