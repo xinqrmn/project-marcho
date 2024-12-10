@@ -16,7 +16,7 @@ A basic e-commerce website with essential features.
 Clone the repository:
    
 ```bash
-   git clone https://github.com/xinqrmn/project-marcho.git
+git clone https://github.com/xinqrmn/project-marcho.git
 ```
 
 Open index.html in your browser.
