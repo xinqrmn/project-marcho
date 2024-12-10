@@ -15,7 +15,7 @@ A basic e-commerce website with essential features.
 ## 🖥️ How to Run the Project?
 1. Clone the repository:
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/xinqrmn/project-marcho.git
    ```
 Open index.html in your browser.
 
